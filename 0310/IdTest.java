@@ -1,0 +1,9 @@
+class IdTest 
+{
+	public static void main(String[] args) 
+	{
+		String ¿Ã∏ß = "±Ë¡¯øµ";
+		String name = "Kim Jin young";
+		System.out.println("æ»≥Á«œººø‰ "+¿Ã∏ß+"¥‘" +"("+name+")");
+	}
+}
